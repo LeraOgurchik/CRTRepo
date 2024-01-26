@@ -4,6 +4,7 @@ Suite Setup                   Setup Browser
 Suite Teardown                End suite
 
 # Adding the line in the CRT
+# Adding the line in the Github
 *** Test Cases ***
 Entering A Lead
     [tags]                    Lead                        Git Repo Exercise
